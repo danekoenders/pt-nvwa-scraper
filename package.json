@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "scrape": "node src/scraping/scraper.js",
-    "query-pinecone": "node src/query/query-pinecone.js"
+    "query": "node src/query/query-pinecone.js"
   },
   "author": "Dane Koenders",
   "dependencies": {
